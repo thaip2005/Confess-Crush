@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "https://www.facebook.com/profile.php?id=100051105503577",
-    introTitle: 'Thái',
+    titleWeb: "Gửi bạn",
+    introTitle: 'Nguyễn Đông Vy',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -14,7 +14,6 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    messDesc: 'Chúc bạn 1 ngày mới luôn vui vẻ và gặp nhiều may mắn nhé. Yêu bạn.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+messLink: 'https://www.facebook.com/profile.php?id=100051105503577' 
