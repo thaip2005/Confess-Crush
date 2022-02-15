@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
+    titleWeb: "https://www.facebook.com/profile.php?id=100051105503577",
     introTitle: 'Thái',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
